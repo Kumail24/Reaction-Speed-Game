@@ -1,5 +1,5 @@
 # Reaction-Speed-Game
-Arduino memory game with a full game loop that tests the user's reaction speed for several rounds and returns an average speed at the end. This game includes a green LED which will flash at a random point in time from 1s to 5s, requiring the user to press the push button as fast as they can. This game also includes an LCD which displays a start menu, current round, current round speed, and the user's average speed after the final round.
+Arduino game that tests the user's reaction speed for several rounds and returns an average speed at the end. This game includes a green LED which will flash at a random point in time from 1s to 5s, requiring the user to press the push button as fast as they can. This game also includes an LCD which displays a start menu, current round, current round speed, and the user's average speed after the final round.
 
 This game also ensures the user cannot press the pushbutton before the LED flashes by displaying a "try again" screen on the LCD and restarting the LED timer for that specific round.
 # Bill Of Materials
